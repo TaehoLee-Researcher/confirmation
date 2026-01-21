@@ -1,9 +1,6 @@
-# Reproducibility requirements for Figure 2 (A–C)
-# CPU-only, deterministic analysis
-
-numpy>=1.23
-pandas>=1.5
-scikit-learn>=1.2
-matplotlib>=3.7
-seaborn>=0.12
-umap-learn>=0.5
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+umap-learn==0.5.5
